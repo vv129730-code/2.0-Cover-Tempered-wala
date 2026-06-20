@@ -68,7 +68,7 @@ img, svg { display: block; }
   background:
     radial-gradient(ellipse at 78% 49%, rgba(59,130,246,.23), transparent 27%),
     linear-gradient(105deg, #0f1115 5%, rgba(15,17,21,.86) 42%, rgba(15,17,21,.38) 76%, rgba(15,17,21,.82)),
-    url("assets/hero-phone.jpg") center right / cover no-repeat,
+    url("hero-phone.jpg") center right / cover no-repeat,
     #0f1115;
   filter: contrast(1.07) brightness(.76); transform: scale(1.03); animation: heroDrift 14s ease-in-out infinite alternate;
 }
